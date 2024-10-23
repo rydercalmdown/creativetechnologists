@@ -1,0 +1,38 @@
+# Not sure what a .gitignore is?
+# See: https://git-scm.com/docs/gitignore
+
+# Ignore system and IDE files
+.DS_Store
+.vscode/
+
+# Node modules (if using npm for any reason)
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Docker
+Dockerfile
+.dockerignore
+
+# Makefile
+Makefile
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Build output
+dist/
+build/
+docs/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Optional: ignore local development server files
+.docsify/
