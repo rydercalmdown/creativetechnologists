@@ -8,9 +8,6 @@
 # Node modules (if using npm for any reason)
 node_modules/
 
-# Docsify generated files
-_sidebar.md
-
 # Logs
 *.log
 
@@ -29,9 +26,10 @@ Makefile
 *.swp
 *.swo
 
-# Build output (if any)
+# Build output
 dist/
 build/
+docs/
 
 # Coverage directory used by tools like istanbul
 coverage/

@@ -2,24 +2,12 @@
 
 Stay updated with the latest trends and network with fellow professionals by attending these conferences:
 
-1. **SIGGRAPH**
-   - Focus: Computer graphics and interactive techniques
-   - Website: [https://www.siggraph.org/](https://www.siggraph.org/)
-
-2. **Ars Electronica Festival**
-   - Focus: Art, technology, and society
-   - Website: [https://ars.electronica.art/](https://ars.electronica.art/)
-
-3. **Eyeo Festival**
-   - Focus: Creativity and technology
-   - Website: [http://eyeofestival.com/](http://eyeofestival.com/)
-
-4. **Resonate Festival**
-   - Focus: Art and technology
-   - Website: [https://resonate.io/](https://resonate.io/)
-
-5. **KIKK Festival**
-   - Focus: Digital and creative cultures
-   - Website: [https://www.kikk.be/](https://www.kikk.be/)
+| Conference Name | Focus | Location |
+|-----------------|-------|----------|
+| [SIGGRAPH](https://www.siggraph.org/) | Computer graphics and interactive techniques | Various (North America) |
+| [Ars Electronica Festival](https://ars.electronica.art/) | Art, technology, and society | Linz, Austria |
+| [Eyeo Festival](http://eyeofestival.com/) | Creativity and technology | Minneapolis, USA |
+| [Resonate Festival](https://resonate.io/) | Art and technology | Belgrade, Serbia |
+| [KIKK Festival](https://www.kikk.be/) | Digital and creative cultures | Namur, Belgium |
 
 Remember to check the official websites for the most up-to-date information on dates, locations, and ticket availability.
